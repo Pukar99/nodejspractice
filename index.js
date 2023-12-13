@@ -6,4 +6,4 @@
 // })
 // console.log(result)
 const fs = require('fs');
-fs.writeFileSync("hello.txt"," i am very happy with you happy to your coding journey thank me later")
+fs.writeFileSync("Readmeguys.txt"," This is the second file that i created here so thank me later you went here checking all my works ok ")
