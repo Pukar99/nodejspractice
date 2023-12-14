@@ -1,1 +1,3 @@
 i am checking the global and non global module
+here i have to check the other's thing that might be the module or not
+it only for practice is it ok 
