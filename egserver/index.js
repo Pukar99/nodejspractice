@@ -13,10 +13,14 @@
 // }
 
 
-function dataControl(req,resp)
-{
-    resp.write("Hello i am pukar sharma ");
-    resp.end();
+// function dataControl(req,resp)
+// {
+//     resp.write("Hello i am pukar sharma ");
+//     resp.end();
 
-}
-http.createServer(dataControl).listen(4500);
+// }
+// http.createServer(dataControl).listen(4500);
+
+var a = 2;
+var b = 3;
+console.log(a+b);
