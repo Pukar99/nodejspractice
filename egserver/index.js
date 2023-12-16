@@ -21,6 +21,6 @@
 // }
 // http.createServer(dataControl).listen(4500);
 
-var a = 2;
-var b = 3;
-console.log(a+b);
+// var a = 2;
+// var b = 3;
+// console.log(a+b);
